@@ -1,0 +1,6 @@
+C:\Users\K2RV1\source\repos\wfAlbum\Entidades\bin\Debug\Entidades.dll
+C:\Users\K2RV1\source\repos\wfAlbum\Entidades\bin\Debug\Entidades.pdb
+C:\Users\K2RV1\source\repos\wfAlbum\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\K2RV1\source\repos\wfAlbum\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\K2RV1\source\repos\wfAlbum\Entidades\obj\Debug\Entidades.dll
+C:\Users\K2RV1\source\repos\wfAlbum\Entidades\obj\Debug\Entidades.pdb
